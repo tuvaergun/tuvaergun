@@ -2,7 +2,7 @@
 
 - 🙏 First thanks for browsing my profile,
 
-- 🌱 Me makeing Marketing Automation and Artificial Intelligence software.
+- 🌱 I make marketing automation and artificial intelligence software.
 
 - 💁 I have developed my Full-Stack Developer skills by performing Artificial Intelligence supported by Frontend / Backend and 3rd Party Integrations.
 
