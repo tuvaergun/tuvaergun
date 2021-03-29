@@ -31,6 +31,8 @@
   <img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/>
 </a>
 
+![views](https://github-profile-view-counter.vercel.app/tuvaergun/tuvaergun)
+
 -----
 
 ![Yasin Ergun's github stats](https://github-readme-stats.vercel.app/api?username=tuvaergun&count_private=true&show_icons=true)
