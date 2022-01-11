@@ -16,6 +16,14 @@
 
 - 🙏 Thank you for your time. 
 
+✅ Experiences (15 years)
+- SaaS and PaaS
+- ERP and CRM
+- E-commerce
+- Online meeting and dating
+- DevOps - Cloud
+- Big data
+- High traffic websites and security
 
 ## Connect with me:
 
