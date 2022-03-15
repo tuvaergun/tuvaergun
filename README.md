@@ -1,11 +1,5 @@
 ## Hi there 👋, I'm Yasin Ergun and DevOps Engineer & Full-Stack Developer 🎭
-
-
-
-[![MichaelCade's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuvaergun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuvaergun&theme=dark)](https://git.io/streak-stats)
-
+ 
 ![](https://komarev.com/ghpvc/?username=tuvaergun&color=lightgrey)
 
 
